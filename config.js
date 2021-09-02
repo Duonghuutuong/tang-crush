@@ -4,7 +4,7 @@ const CONFIG = {
 
     introDesc: `Covid phải tiêm vắc-xin.
     Đừng bám tay vịn,
-    yêu đừng né thinh anh
+    yêu đừng né thinh anh nha em
 
    
 
