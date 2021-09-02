@@ -2,13 +2,15 @@ const CONFIG = {
 
     introTitle: 'em à!',
 
-    introDesc: `Trái đất vốn lạ thường
+    introDesc: `Covid phải tiêm vắc-xin.
+    Đừng bám tay vịn,
+    yêu đừng né thinh anh
 
-    Mà sao em cứ đi nhầm đường
+   
 
-    Lạc vào tim anh lẻ loi
 
-    Đằng sau chữ yêu đây là thương`,
+
+`,
 
     btnIntro: 'hihi',
 
